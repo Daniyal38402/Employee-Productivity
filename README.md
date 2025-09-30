@@ -14,3 +14,5 @@ This project analyzes **employee productivity** using Excel and Power BI.
 ## 🛠 Tools
 - Excel  
 - Power BI
+
+![image alt](https://github.com/Daniyal38402/Employee-Productivity/blob/f84834bace6469a56359fa30447263b88dc2096a/Final%20power%20bi.png.png)
